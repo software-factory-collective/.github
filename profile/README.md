@@ -3,8 +3,8 @@
 We are the Software Factory Collective, a team of software engineers working on projects together in our free time for fun and profit.
 
 ### Our Team
-- [Julian Campana](github.com/JCampana98)
-- [Addison Emig](github.com/Pertempto)
+- [Julian Campana](https://github.com/JCampana98)
+- [Addison Emig](https://github.com/Pertempto)
 - [Leandro Méndez](https://github.com/LeanMendez)
 
 ### Our Work
