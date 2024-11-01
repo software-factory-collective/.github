@@ -8,7 +8,7 @@ We are the Software Factory Collective, a team of software engineers working on 
 - [Leandro Méndez](https://github.com/LeanMendez)
 
 ### Our Work
-We are currently working on [Mabocados](github.com/software-factory-collective/mabocados).
+We are currently working on [Mabocados](https://github.com/software-factory-collective/mabocados).
 <!--
 
 **Here are some ideas to get you started:**
